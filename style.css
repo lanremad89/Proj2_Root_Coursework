@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(175, 175, 175)
+}
+
+header {
+    background-color: rgb(1, 138, 131);
+    padding: 30px;
+}
+
+.navbar a {
+    color: white;
+}
+
